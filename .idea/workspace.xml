@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3442bff4-b79f-4bc0-afb9-fae212b11226" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fredostar/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzzTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FizzBuzzTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/fredostar/FizzBuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="34" column="67" lean-forward="true" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
+            <state relative-caret-position="407">
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#346#347#0" expanded="true" />
@@ -45,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="-13">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -367,17 +366,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539798129571</updated>
-      <workItem from="1539798136132" duration="5960000" />
+      <workItem from="1539798136132" duration="6278000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBuzzTest - 2018.10.17 at 22h 16m 26s.xml">
-      <configuration name="FizzBuzzTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest_should_returnBuzz - 2018.10.17 at 22h 26m 27s.xml">
-      <configuration name="FizzBuzzTest.should_returnBuzz" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzTest_should_returnBuzz - 2018.10.17 at 22h 27m 27s.xml">
       <configuration name="FizzBuzzTest.should_returnBuzz" configurationId="JUnit" />
     </history-entry>
@@ -402,9 +395,15 @@
     <history-entry file="FizzBuzzTest_should_returnFizz - 2018.10.17 at 22h 47m 37s.xml">
       <configuration name="FizzBuzzTest.should_returnFizz" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FizzBuzzTest_should_returnFizz - 2018.10.17 at 22h 49m 41s.xml">
+      <configuration name="FizzBuzzTest.should_returnFizz" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTest - 2018.10.17 at 22h 49m 50s.xml">
+      <configuration name="FizzBuzzTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5960000" />
+    <option name="totallyTimeSpent" value="6278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="723" extended-state="6" />
@@ -419,7 +418,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32973805" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32973805" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -462,10 +461,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/fredostar/FizzBuzzTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="34" column="67" lean-forward="true" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
+        <state relative-caret-position="407">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#346#347#0" expanded="true" />
@@ -477,13 +483,6 @@
             <element signature="e#702#703#0" expanded="true" />
             <element signature="e#727#728#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
