@@ -16,11 +16,17 @@ public class FizzBuzzTest {
 
 
     @Test
-    public void should_returnNumber(){
-
+    public void should_returnString(){
 
         Assertions.assertEquals("1", fizzBuzz.resultat(1));
 
-
     }
+
+    @Test
+    public void should_returnFizz(){
+        Assertions.assertEquals("Fizz", fizzBuzz.resultat(3));
+    }
+    
+
+
 }

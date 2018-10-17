@@ -5,6 +5,12 @@ public class FizzBuzz {
 
         String resultat = Integer.toString(i);
 
+        if(i % 3 == 0){
+
+            resultat = "Fizz";
+
+        }
+
         return resultat;
     }
 }
