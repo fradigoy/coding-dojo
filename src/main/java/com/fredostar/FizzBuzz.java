@@ -5,21 +5,46 @@ public class FizzBuzz {
 
         String resultat = Integer.toString(i);
 
-        if(i % 3 == 0 || i % 5 == 0){
+        if(isFizz(i)|| i % 5 == 0){
 
             resultat = "";
 
-            if(i % 3 == 0){
+            if(isFizz(i)){
 
                 resultat += "Fizz";
 
             }
-            if(i % 5 == 0){
+            if(isBuzz(i)){
                 resultat += "Buzz";
             }
         }
 
         return resultat;
+    }
+
+    private boolean isFizz(int number){
+
+        if((number % 3) == 0){
+
+           return true;
+
+        }
+        else
+        {
+            return false;
+        }
+
+    }
+
+    private boolean isBuzz(int number){
+
+        if(number % 5 == 0){
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
 
 

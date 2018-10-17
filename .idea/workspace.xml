@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3442bff4-b79f-4bc0-afb9-fae212b11226" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/fredostar/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fredostar/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fredostar/FizzBuzz.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,8 +48,8 @@
       <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            <state relative-caret-position="231">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -183,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest.should_returnFizzBuzz">
+  <component name="RunManager" selected="JUnit.FizzBuzzTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -349,10 +349,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FizzBuzzTest.should_returnFizzBuzz" />
         <item itemvalue="JUnit.FizzBuzzTest" />
-        <item itemvalue="JUnit.FizzBuzzTest.should_returnBuzz" />
         <item itemvalue="JUnit.FizzBuzzTest.should_returnFizz" />
+        <item itemvalue="JUnit.FizzBuzzTest.should_returnFizzBuzz" />
+        <item itemvalue="JUnit.FizzBuzzTest.should_returnBuzz" />
         <item itemvalue="JUnit.FizzBuzzTest.should_returnString" />
       </list>
     </recent_temporary>
@@ -367,23 +367,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539798129571</updated>
-      <workItem from="1539798136132" duration="5277000" />
+      <workItem from="1539798136132" duration="5960000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBuzzTest_should_returnFizz - 2018.10.17 at 22h 11m 56s.xml">
-      <configuration name="FizzBuzzTest.should_returnFizz" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest_should_returnFizz - 2018.10.17 at 22h 14m 26s.xml">
-      <configuration name="FizzBuzzTest.should_returnFizz" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest_should_returnFizz - 2018.10.17 at 22h 14m 38s.xml">
-      <configuration name="FizzBuzzTest.should_returnFizz" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest_should_returnFizz - 2018.10.17 at 22h 16m 14s.xml">
-      <configuration name="FizzBuzzTest.should_returnFizz" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzTest - 2018.10.17 at 22h 16m 26s.xml">
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
@@ -402,9 +390,21 @@
     <history-entry file="FizzBuzzTest_should_returnFizzBuzz - 2018.10.17 at 22h 35m 47s.xml">
       <configuration name="FizzBuzzTest.should_returnFizzBuzz" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FizzBuzzTest_should_returnFizzBuzz - 2018.10.17 at 22h 37m 33s.xml">
+      <configuration name="FizzBuzzTest.should_returnFizzBuzz" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTest_should_returnFizzBuzz - 2018.10.17 at 22h 37m 55s.xml">
+      <configuration name="FizzBuzzTest.should_returnFizzBuzz" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTest_should_returnFizzBuzz - 2018.10.17 at 22h 38m 21s.xml">
+      <configuration name="FizzBuzzTest.should_returnFizzBuzz" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTest_should_returnFizz - 2018.10.17 at 22h 47m 37s.xml">
+      <configuration name="FizzBuzzTest.should_returnFizz" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5277000" />
+    <option name="totallyTimeSpent" value="5960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="723" extended-state="6" />
@@ -482,8 +482,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        <state relative-caret-position="231">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
