@@ -5,13 +5,18 @@ public class FizzBuzz {
 
         String resultat = Integer.toString(i);
 
-        if(i % 3 == 0){
+        if(i % 3 == 0 || i % 5 == 0){
 
-            resultat = "Fizz";
+            resultat = "";
 
-        }
-        if(i % 5 == 0){
-            resultat = "Buzz";
+            if(i % 3 == 0){
+
+                resultat += "Fizz";
+
+            }
+            if(i % 5 == 0){
+                resultat += "Buzz";
+            }
         }
 
         return resultat;
