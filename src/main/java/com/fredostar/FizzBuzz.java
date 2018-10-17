@@ -10,7 +10,12 @@ public class FizzBuzz {
             resultat = "Fizz";
 
         }
+        if(i % 5 == 0){
+            resultat = "Buzz";
+        }
 
         return resultat;
     }
+
+
 }

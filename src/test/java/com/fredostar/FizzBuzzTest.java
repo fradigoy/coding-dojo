@@ -26,7 +26,11 @@ public class FizzBuzzTest {
     public void should_returnFizz(){
         Assertions.assertEquals("Fizz", fizzBuzz.resultat(3));
     }
-    
+
+    @Test
+    public void should_returnBuzz(){
+        Assertions.assertEquals("Buzz", fizzBuzz.resultat(5));
+    }
 
 
 }

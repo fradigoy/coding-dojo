@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3442bff4-b79f-4bc0-afb9-fae212b11226" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/fredostar/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fredostar/FizzBuzzTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/fredostar/FizzBuzzTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/fredostar/FizzBuzzTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,25 +25,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzzTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FizzBuzzTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/fredostar/FizzBuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            <state relative-caret-position="238">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#462#463#0" expanded="true" />
                 <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="195">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -67,8 +67,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/fredostar/FizzBuzzTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java" />
       </list>
     </option>
   </component>
@@ -191,6 +191,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="FizzBuzzTest.should_returnBuzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coding-dojo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fredostar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.fredostar" />
+      <option name="MAIN_CLASS_NAME" value="com.fredostar.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="should_returnBuzz" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="FizzBuzzTest.should_returnFizz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="coding-dojo" />
       <extension name="coverage">
@@ -204,29 +227,6 @@
       <option name="PACKAGE_NAME" value="com.fredostar" />
       <option name="MAIN_CLASS_NAME" value="com.fredostar.FizzBuzzTest" />
       <option name="METHOD_NAME" value="should_returnFizz" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="FizzBuzzTest.should_returnNombre" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="coding-dojo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fredostar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.fredostar" />
-      <option name="MAIN_CLASS_NAME" value="com.fredostar.FizzBuzzTest" />
-      <option name="METHOD_NAME" value="should_returnNombre" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -322,19 +322,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.FizzBuzzTest.should_returnNombre" />
       <item itemvalue="JUnit.FizzBuzzTest.should_returnNumber" />
       <item itemvalue="JUnit.FizzBuzzTest.should_returnString" />
       <item itemvalue="JUnit.FizzBuzzTest.should_returnFizz" />
       <item itemvalue="JUnit.FizzBuzzTest" />
+      <item itemvalue="JUnit.FizzBuzzTest.should_returnBuzz" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FizzBuzzTest" />
+        <item itemvalue="JUnit.FizzBuzzTest.should_returnBuzz" />
         <item itemvalue="JUnit.FizzBuzzTest.should_returnFizz" />
         <item itemvalue="JUnit.FizzBuzzTest.should_returnString" />
         <item itemvalue="JUnit.FizzBuzzTest.should_returnNumber" />
-        <item itemvalue="JUnit.FizzBuzzTest.should_returnNombre" />
       </list>
     </recent_temporary>
   </component>
@@ -348,14 +348,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539798129571</updated>
-      <workItem from="1539798136132" duration="4516000" />
+      <workItem from="1539798136132" duration="4783000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FizzBuzzTest_should_returnNombre - 2018.10.17 at 21h 58m 46s.xml">
-      <configuration name="FizzBuzzTest.should_returnNombre" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzTest_should_returnNumber - 2018.10.17 at 21h 59m 16s.xml">
       <configuration name="FizzBuzzTest.should_returnNumber" configurationId="JUnit" />
     </history-entry>
@@ -383,9 +380,12 @@
     <history-entry file="FizzBuzzTest - 2018.10.17 at 22h 16m 26s.xml">
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FizzBuzzTest_should_returnBuzz - 2018.10.17 at 22h 26m 27s.xml">
+      <configuration name="FizzBuzzTest.should_returnBuzz" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4516000" />
+    <option name="totallyTimeSpent" value="4783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="723" extended-state="6" />
@@ -443,22 +443,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/fredostar/FizzBuzzTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        <state relative-caret-position="238">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#462#463#0" expanded="true" />
             <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fredostar/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
     </entry>
