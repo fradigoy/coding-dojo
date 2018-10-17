@@ -16,10 +16,10 @@ public class FizzBuzzTest {
 
 
     @Test
-    public void should_returnNumBre(){
+    public void should_returnNumber(){
 
 
-        Assertions.assertEquals("1", fizzBuzz.);
+        Assertions.assertEquals("1", fizzBuzz.resultat(1));
 
 
     }
